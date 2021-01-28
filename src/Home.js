@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-
 import {
   BrowserRouter as Router,
   Route,
@@ -49,7 +48,7 @@ class Home extends React.Component {
               <div class="col-sm-4">
                 <div class="rounded-circle">
                   <img
-                    src="/images/myphoto.png"
+                    src="myphoto.png"
                     class="rounded-circle mx-auto d-block"
                     alt="my photo"
                     width="130px"
