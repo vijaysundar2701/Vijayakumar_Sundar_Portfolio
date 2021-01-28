@@ -49,7 +49,7 @@ class Home extends React.Component {
               <div class="col-sm-4">
                 <div class="rounded-circle">
                   <img
-                    src="myphoto.png"
+                    src="/images/myphoto.png"
                     class="rounded-circle mx-auto d-block"
                     alt="my photo"
                     width="130px"
