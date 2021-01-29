@@ -67,7 +67,7 @@ class Home extends React.Component {
                   myself and extend quality service to my organization.
                 </p>
               </div>
-            </div>
+            </div> 
           </div>
           <br />
           <div class="container">
