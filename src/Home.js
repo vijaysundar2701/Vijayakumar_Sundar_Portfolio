@@ -124,6 +124,18 @@ class Home extends React.Component {
                       </td>
                     </tr>
                     <tr>
+                      <td>Java</td>
+                      <td>
+                        <a
+                          href={
+                            "https://github.com/vijaysundar2701/Web-Application-For-Recruiters-To-Assessing-The-Candidate-Skills-Using-Java"
+                          }
+                        >
+                        Recruiters Website For Assessing The Candidate Skills
+                        </a>
+                      </td>
+                    </tr>
+                    <tr>
                       <td>ReactJS</td>
                       <td>
                         <a
