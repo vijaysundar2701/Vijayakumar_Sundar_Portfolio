@@ -94,9 +94,6 @@ class Home extends React.Component {
                     I Completed Python and MySQL online certificate courses in
                     GUVI
                   </li>
-                  <li>
-                    Attended Python workshop at Jeppiaar SRR Engineering College
-                  </li>
                 </ul>
               </div>
               <br />

@@ -18,6 +18,84 @@ body {
   color: white;
 }
 
+@media only screen and (max-width: 1000px) {
+  .myname {
+    font-size: 3vw;
+  }
+  .myoccupation {
+    font-size: 2.5vw;
+  }
+  #navigation {
+    font-size: 2vw;
+  }
+  .myskills {
+    font-size: 2.5vw;
+  }
+  .skills {
+    font-size: 2.25vw;
+  }
+  th {
+    font-size: 2vw;
+  }
+  td {
+    font-size: 1.5vw;
+  }
+  #footer {
+    font-size: 2vw;
+  }
+}
+@media only screen and (max-width: 840px) {
+  .myname {
+    font-size: 3.5vw;
+  }
+  .myoccupation {
+    font-size: 3vw;
+  }
+  #navigation {
+    font-size: 2.5vw;
+  }
+  .myskills {
+    font-size: 2.5vw;
+  }
+  .skills {
+    font-size: 2.25vw;
+  }
+  th {
+    font-size: 2vw;
+  }
+  td {
+    font-size: 1.75vw;
+  }
+  #footer {
+    font-size: 2.5vw;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .myname {
+    font-size: 3.75vw;
+  }
+  .myoccupation {
+    font-size: 3.25vw;
+  }
+  #navigation {
+    font-size: 2.75vw;
+  }
+  .myskills {
+    font-size: 3vw;
+  }
+  .skills {
+    font-size: 2.75vw;
+  }
+  th {
+    font-size: 2.75vw;
+  }
+  td {
+    font-size: 2.25vw;
+  }
+  #footer {
+    font-size: 2.75vw;
+  }
+}
 @media only screen and (max-width: 575px) {
   .myname {
     font-size: 5.5vw;
@@ -171,6 +249,6 @@ body {
     font-size: 1.25vw;
   }
   #footer {
-    font-size: 0.20vw;
+    font-size: 0.2vw;
   }
 }
