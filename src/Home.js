@@ -100,23 +100,25 @@ class Home extends React.Component {
                 </ul>
               </div>
               <br />
-              <div class="col-sm-6">
+              <div class="col-sm-12">
                 <h2 class="myskills">My Projects</h2>
                 <br />
                 <table class="table table-dark table-striped">
                   <thead>
                     <tr>
                       <th>Project Domain</th>
+                      <th>Programming Language</th>
                       <th>Project Link</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td>Java</td>
+                      <td>Full Stack Web Developement</td>
+                      <td>HTML, CSS, Javascript, Bootstrap, Java, JSP, Servlet</td>
                       <td>
                         <a
                           href={
-                            "https://github.com/vijaysundar2701/ToDo_List_App_Using_React"
+                            "https://github.com/vijaysundar2701/Bus_Booking_Website_Using_Java"
                           }
                         >
                           Bus Booking Application
@@ -124,23 +126,25 @@ class Home extends React.Component {
                       </td>
                     </tr>
                     <tr>
-                      <td>Java</td>
+                      <td>Full Stack Web Developement</td>
+                      <td>HTML, CSS, Javascript, Bootstrap, Java, JSP, Servlet</td>
                       <td>
                         <a
                           href={
                             "https://github.com/vijaysundar2701/Web-Application-For-Recruiters-To-Assessing-The-Candidate-Skills-Using-Java"
                           }
                         >
-                        Recruiters Website For Assessing The Candidate Skills
+                          Candidate Skills Assessment Application
                         </a>
                       </td>
                     </tr>
                     <tr>
-                      <td>ReactJS</td>
+                      <td>Responsive Web Design</td>
+                      <td>HTML, CSS, Javascript, ReactJS, Bootstrap</td>
                       <td>
                         <a
                           href={
-                            "https://github.com/vijaysundar2701/ToDo_List_App_Using_React"
+                            "https://github.com/vijaysundar2701/Responsive-Website-Using-ReactJS"
                           }
                         >
                           Responsive Website Using ReactJS
@@ -148,7 +152,8 @@ class Home extends React.Component {
                       </td>
                     </tr>
                     <tr>
-                      <td>ReactJS</td>
+                      <td>Web Application</td>
+                      <td>HTML, CSS, Javascript, ReactJS</td>
                       <td>
                         <a
                           href={
@@ -162,7 +167,7 @@ class Home extends React.Component {
                   </tbody>
                 </table>
               </div>
-              <div class="col-sm-6">
+              <div class="col-sm-12">
                 <h2 class="myskills">Educational Qualification</h2>
                 <br />
                 <table class="table table-dark table-striped">
