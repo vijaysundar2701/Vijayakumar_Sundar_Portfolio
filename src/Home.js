@@ -157,7 +157,7 @@ class Home extends React.Component {
                       <td>
                         <a
                           href={
-                            "https://github.com/vijaysundar2701/ToDo_List_App_Using_React"
+                            "https://github.com/vijaysundar2701/ToDo_List_App_Using_ReactJS"
                           }
                         >
                           ToDo List App
