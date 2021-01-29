@@ -177,7 +177,7 @@ class Project extends React.Component {
                     <li class="nav-item">
                       <a
                         class="nav-link active"
-                        href={"https://github-ku8cpw.stackblitz.io/"}
+                        href={"https://github.com/vijaysundar2701/Responsive-Website-Using-ReactJS"}
                       >
                         Github Link For Project Source Code
                       </a>
@@ -219,7 +219,7 @@ class Project extends React.Component {
                       <a
                         class="nav-link active"
                         href={
-                          "https://github.com/vijaysundar2701/VJ_Online_Bus_Booking_Website"
+                          "https://github.com/vijaysundar2701/ToDo_List_App_Using_ReactJS"
                         }
                       >
                         Github Link For Project Source Code
