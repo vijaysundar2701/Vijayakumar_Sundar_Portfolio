@@ -41,28 +41,13 @@ class Youtube extends React.Component {
             </li>
           </ul>
         </div>
-    
+
         <div class="container">
           <div class="row">
             <div class="col-sm-4">
-              <h2>Channel Logo</h2>
-              <div class="rounded-circle">
-                <br />
-                <br />
-                <img
-                  src="vjlogo.jpg"
-                  class="rounded-circle"
-                  alt="my photo"
-                  width="200px"
-                  height="200px"
-                />
-              </div>
-            </div>
-            <br />
-            <div class="col-sm-8">
-              <h2>Channel Trailer</h2>
               <div class="embed-responsive embed-responsive-16by9">
                 <br />
+            
                 <iframe
                   class="embed-responsive-item"
                   src="https://www.youtube.com/embed/_W6d6BXNsY8"
@@ -72,34 +57,25 @@ class Youtube extends React.Component {
                 />
               </div>
             </div>
-          </div>
-        </div>
-
-        <div class="container">
-          <div class="row">
             <div class="col-sm-4">
-              <h2>React JS</h2>
-              <div class="rounded-circle">
+              <div class="embed-responsive embed-responsive-16by9">
                 <br />
-                <br />
-                <br />
-                <img
-                  src="logo192.png"
-                  class="rounded-circle"
-                  alt="my photo"
-                  width="200px"
-                  height="200px"
+             
+                <iframe
+                  class="embed-responsive-item"
+                  src="https://www.youtube.com/embed/videoseries?list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
                 />
               </div>
             </div>
-
-            <div class="col-sm-8">
-              <h2>React JS Full Course</h2>
+            <div class="col-sm-4">
               <div class="embed-responsive embed-responsive-16by9">
                 <br />
                 <iframe
                   class="embed-responsive-item"
-                  src="https://www.youtube.com/embed/videoseries?list=PLtMr2pEysMV46-LZTpYxmeRqbrZ-A_Rr5"
+                  src="https://www.youtube.com/embed/videoseries?list=PLtMr2pEysMV4sGIf3mMaoaHi2AIxYG6wY"
                   frameborder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowfullscreen
@@ -108,31 +84,42 @@ class Youtube extends React.Component {
             </div>
           </div>
         </div>
+
         <div class="container">
           <div class="row">
             <div class="col-sm-4">
-              <h2>Node JS</h2>
-              <div class="rounded-circle">
+              <div class="embed-responsive embed-responsive-16by9">
                 <br />
-                <br />
-                <br />
-                <img
-                  src="Node JS.jpg"
-                  class="rounded-circle"
-                  alt="my photo"
-                  width="200px"
-                  height="200px"
+            
+                <iframe
+                  class="embed-responsive-item"
+                  src="https://www.youtube.com/embed/videoseries?list=PLtMr2pEysMV6ArKDOGVmjQxjW-RcdxFHE"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
                 />
               </div>
             </div>
-
-            <div class="col-sm-8">
-              <h2>Node JS Full Course</h2>
+            <div class="col-sm-4">
               <div class="embed-responsive embed-responsive-16by9">
                 <br />
+               
                 <iframe
                   class="embed-responsive-item"
-                  src="https://www.youtube.com/embed/cRqIGvlgO88"
+                  src="https://www.youtube.com/embed/videoseries?list=PLtMr2pEysMV71gJMfzaLjy07JkGSD40zk"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
+                />
+              </div>
+            </div>
+            <div class="col-sm-4">
+              <div class="embed-responsive embed-responsive-16by9">
+                <br />
+              
+                <iframe
+                  class="embed-responsive-item"
+                  src="https://www.youtube.com/embed/videoseries?list=PLtMr2pEysMV6l16cfjqQu63AKjehCEmjB"
                   frameborder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowfullscreen
