@@ -52,7 +52,10 @@ class Project extends React.Component {
                 <div class="embed-responsive embed-responsive-16by9">
                   <iframe
                     class="embed-responsive-item"
-                  src="https://www.youtube.com/embed/8-x-w0hZ2UI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+                    src="https://www.youtube.com/embed/8-x-w0hZ2UI"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
                   />
                 </div>
                 <p class="skills" style={{ textAlign: "justify" }}>
@@ -98,7 +101,10 @@ class Project extends React.Component {
                 <div class="embed-responsive embed-responsive-16by9">
                   <iframe
                     class="embed-responsive-item"
-                    src="https://www.youtube.com/embed/_jLimZhKUB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+                    src="https://www.youtube.com/embed/_jLimZhKUB4"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
                   />
                 </div>
                 <p class="skills" style={{ textAlign: "justify" }}>
@@ -144,7 +150,7 @@ class Project extends React.Component {
                 <div class="embed-responsive embed-responsive-16by9">
                   <iframe
                     class="embed-responsive-item"
-                    src="https://www.youtube.com/embed/gmparjlRJnY"
+                    src="https://www.youtube.com/embed/GVc3qUA9XzI"
                     frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen
@@ -162,16 +168,16 @@ class Project extends React.Component {
                   languages and tools
                 </p>
                 <ul>
-                  <li>
-                    Frontend - React JS, HTML, CSS, Javascript, Bootstrap
-                  </li>
+                  <li>Frontend - React JS, HTML, CSS, Javascript, Bootstrap</li>
                 </ul>
                 <div>
                   <ul class="nav nav-pills justify-content-center">
                     <li class="nav-item">
                       <a
                         class="nav-link active"
-                        href={"https://github.com/vijaysundar2701/Responsive-Website-Using-ReactJS"}
+                        href={
+                          "https://github.com/vijaysundar2701/Responsive-Website-Using-ReactJS"
+                        }
                       >
                         Github Link For Project Source Code
                       </a>
@@ -190,11 +196,16 @@ class Project extends React.Component {
                 <div class="embed-responsive embed-responsive-16by9">
                   <iframe
                     class="embed-responsive-item"
-                    src="https://www.youtube.com/embed/j28RMsRpD2o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+                    src="https://www.youtube.com/embed/j28RMsRpD2o"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
                   />
                 </div>
                 <p class="skills" style={{ textAlign: "justify" }}>
-                 To Do List App helpful for user to plan their task and track their task. User can also strikeout or delete their task once they completed their task
+                  To Do List App helpful for user to plan their task and track
+                  their task. User can also strikeout or delete their task once
+                  they completed their task
                 </p>
                 <h2 class="myskills">Project Domain and Tools</h2>
                 <p class="skills">
