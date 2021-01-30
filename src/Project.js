@@ -109,8 +109,8 @@ class Project extends React.Component {
                 </div>
                 <p class="skills" style={{ textAlign: "justify" }}>
                   Online Bus Ticket Booking Application helpful for bus owners
-                  and travellers. In Admin Panel, Bus owners upload the depature
-                  place, destination place, journey date, depature time, type of
+                  and travellers. In Admin Panel, Bus owners upload the departure
+                  place, destination place, journey date, departure time, type of
                   bus, cost. In Customer Panel, Customer can book the tickets
                   based on there interest/needs.
                 </p>
