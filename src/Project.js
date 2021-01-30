@@ -52,10 +52,7 @@ class Project extends React.Component {
                 <div class="embed-responsive embed-responsive-16by9">
                   <iframe
                     class="embed-responsive-item"
-                    src="https://www.youtube.com/embed/gmparjlRJnY"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen
+                  src="https://www.youtube.com/embed/8-x-w0hZ2UI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
                   />
                 </div>
                 <p class="skills" style={{ textAlign: "justify" }}>
@@ -101,10 +98,7 @@ class Project extends React.Component {
                 <div class="embed-responsive embed-responsive-16by9">
                   <iframe
                     class="embed-responsive-item"
-                    src="https://www.youtube.com/embed/gmparjlRJnY"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen
+                    src="https://www.youtube.com/embed/_jLimZhKUB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
                   />
                 </div>
                 <p class="skills" style={{ textAlign: "justify" }}>
@@ -196,10 +190,7 @@ class Project extends React.Component {
                 <div class="embed-responsive embed-responsive-16by9">
                   <iframe
                     class="embed-responsive-item"
-                    src="https://www.youtube.com/embed/gmparjlRJnY"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen
+                    src="https://www.youtube.com/embed/j28RMsRpD2o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
                   />
                 </div>
                 <p class="skills" style={{ textAlign: "justify" }}>
