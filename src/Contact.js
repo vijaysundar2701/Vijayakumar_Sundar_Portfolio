@@ -8,16 +8,17 @@ import {
   Switch
 } from "react-router-dom";
 import "./index.css";
-class Home extends React.Component {
+class Contact extends React.Component {
   constructor() {
     super();
     this.state = { subject: "", body: "" };
   }
-  validateForm = () => {
+  validateForm = event => {
     var subject = document.getElementById("subject").value;
     var body = document.getElementById("body").value;
     window.location.href =
       "mailto:vijaysundars99@gmail.com?subject=" + subject + "&body=" + body;
+    event.preventDefault();
     return false;
   };
 
@@ -141,4 +142,4 @@ class Home extends React.Component {
   }
 }
 
-export default Home;
+export default Contact;
