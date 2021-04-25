@@ -101,10 +101,10 @@ class Project extends React.Component {
                 </div>
                 <p class="skills" style={{ textAlign: "justify" }}>
                   Online Bus Ticket Booking Application helpful for bus owners
-                  and travellers. In Admin Panel, Bus owners upload the departure
-                  place, destination place, journey date, departure time, type of
-                  bus, cost. In Customer Panel, Customer can book the tickets
-                  based on there interest/needs.
+                  and travellers. In Admin Panel, Bus owners upload the
+                  departure place, destination place, journey date, departure
+                  time, type of bus, cost. In Customer Panel, Customer can book
+                  the tickets based on there interest/needs.
                 </p>
                 <h2 class="myskills">Project Domain and Tools</h2>
                 <p class="skills">
@@ -140,7 +140,15 @@ class Project extends React.Component {
               </h2>
               <div>
                 <div class="embed-responsive embed-responsive-16by9">
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/R0CopcuYh1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; mute=1;clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe
+                    width="560"
+                    height="315"
+                    src="https://www.youtube.com/embed/R0CopcuYh1k"
+                    title="YouTube video player"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen
+                  />
                 </div>
                 <p class="skills" style={{ textAlign: "justify" }}>
                   I created this responsive website for myself. Hereby I
