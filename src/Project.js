@@ -140,13 +140,7 @@ class Project extends React.Component {
               </h2>
               <div>
                 <div class="embed-responsive embed-responsive-16by9">
-                  <iframe
-                    class="embed-responsive-item"
-                    src="https://www.youtube.com/embed/GVc3qUA9XzI"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen
-                  />
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/R0CopcuYh1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; mute=1;clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <p class="skills" style={{ textAlign: "justify" }}>
                   I created this responsive website for myself. Hereby I

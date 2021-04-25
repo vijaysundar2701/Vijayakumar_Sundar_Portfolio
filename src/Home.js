@@ -67,7 +67,7 @@ class Home extends React.Component {
                   myself and extend quality service to my organization.
                 </p>
               </div>
-            </div> 
+            </div>
           </div>
           <br />
           <div class="container">
@@ -111,7 +111,9 @@ class Home extends React.Component {
                   <tbody>
                     <tr>
                       <td>Full Stack Web Developement</td>
-                      <td>HTML, CSS, Javascript, Bootstrap, Java, JSP, Servlet</td>
+                      <td>
+                        HTML, CSS, Javascript, Bootstrap, Java, JSP, Servlet
+                      </td>
                       <td>
                         <a
                           href={
@@ -124,7 +126,9 @@ class Home extends React.Component {
                     </tr>
                     <tr>
                       <td>Full Stack Web Developement</td>
-                      <td>HTML, CSS, Javascript, Bootstrap, Java, JSP, Servlet</td>
+                      <td>
+                        HTML, CSS, Javascript, Bootstrap, Java, JSP, Servlet
+                      </td>
                       <td>
                         <a
                           href={
