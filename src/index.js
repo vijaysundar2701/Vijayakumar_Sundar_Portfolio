@@ -17,7 +17,7 @@ const routing = (
   <Router>
     <div>
       <Switch>
-        <Route exact path="/" component={Home} />
+        <Route exact path="/Vijayakumar_Sundar_Portfolio" component={Home} />
         <Route path="/project" component={Project} />
         <Route path="/contact" component={Contact} />
         <Route path="/youtube" component={Youtube} />
