@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vijayakumar_Sundar_Portfolio/static/css/main.6624adc3.css",
+    "main.js": "/Vijayakumar_Sundar_Portfolio/static/js/main.70bef23c.js",
+    "index.html": "/Vijayakumar_Sundar_Portfolio/index.html",
+    "main.6624adc3.css.map": "/Vijayakumar_Sundar_Portfolio/static/css/main.6624adc3.css.map",
+    "main.70bef23c.js.map": "/Vijayakumar_Sundar_Portfolio/static/js/main.70bef23c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6624adc3.css",
+    "static/js/main.70bef23c.js"
+  ]
+}
